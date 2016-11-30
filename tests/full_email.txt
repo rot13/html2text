@@ -18,7 +18,7 @@ Your achievements
 You're currently finding about
 12 cats
 per day
-
+ 
 [Number of cats found]
 ---------------------------------------------------------------
 
